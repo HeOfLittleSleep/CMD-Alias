@@ -1,3 +1,3 @@
 @echo off
 echo.
-ssh tim@nevada
+ssh tim@192.168.1.121
